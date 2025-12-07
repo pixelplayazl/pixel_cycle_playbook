@@ -1,7 +1,9 @@
 ### Pixel Cycle Playbook
 
 ## Overview
-Pixel Play operates in fixed five-week cycles. Each cycle finishes one project, and with 52 weeks in a year, the team aims to complete 10 projects annually.
+Pixel Play operates in fixed five-week cycles.
+Each cycle finishes one project, and with 52 weeks in a year,
+the team aims to complete 10 projects annually.
 
 ### What is a Pixel Cycle?
 - One cycle lasts 5 weeks.
@@ -13,29 +15,29 @@ Pixel Play operates in fixed five-week cycles. Each cycle finishes one project, 
 - It can be a request, a problem to fix, or any work item that adds value.
 
 ### How Projects Are Created
-- Week 5: Project Proposals for the next cycle are drafted, discussed, and selected.
-- Weeks 1–4: Execution on the current cycle’s project continues.
+- At the last week of the cycle (week 5) a  Project Proposals for the next cycle are
+drafted, discussed, and selected.
 - A meeting is held to discuss and select the appropriate project for the next cycle.
 
-How to Write a Project Proposal
-Note: Proposals are drafted and finalized in Week 5 for the next cycle.
+How to Write a Project Proposal ?
 
-A Project Proposal should scope the following (to be completed in Week 5):
+A Project Proposal should scope the following:
 
 1) Problem
 - What problem does the project solve?
-- Why is this work worth doing?
+- Why is this work worth a project?
 
 2) Solution
 - What is the proposed solution?
-- Ensure there is a concrete path to deliver a closed outcome.
+- Make sure that the problem have a solution so that we are not stuck chasing goose
 
 3) Scope
-- The project should be large enough to justify ~40 hours/week for 4 weeks, yet small enough to finish within the cycle.
-- todos and not todos to help scoping :
-  3.1 Todos: List all tasks required to finish the project this cycle.
-  3.2 NotTodos: Outline things to avoid or deprioritize during this cycle.
-- Note: Scope can be adjusted during the cycle if necessary.
+- The project should be large enough to justify ~40 hours/week for 4 weeks, yet small
+enough to finish within the cycle.
+- todos and not todos to help with scoping :
+  - 3.1 Todos: List all tasks required to finish the project this cycle.
+  - 3.2 NotTodos: Outline things to avoid or deprioritize during this cycle.
+- Note: Scope may be adjusted during the cycle if necessary.
 
 4) Assignments
 - Identify the people responsible for the project and their roles.
@@ -43,13 +45,14 @@ A Project Proposal should scope the following (to be completed in Week 5):
 ## Timeline: Actual Schedule for One Pixel Cycle
 
 Week 1 – Week 4
-- Execution on the current cycle’s project is performed.
-- Everyone are asked what they will be working on this week.
+- Execution of the current cycle’s project
+- At the start of the week everyone is asked what they plan to work on the week
+- At the end of the week, a meeting will be held to check on how well we have worked this week
 
 Week 5
 - Week 5 is dedicated to drafting the next cycle’s Project Proposal.
-- No new work is scheduled in Week 5 for the current cycle; team members are free to work on whatever they want.
-- Each member submits a write-up describing:
+- No work is scheduled for week 5; team members are free to work on whatever they please, maybe touch ups, bug fixes or even some personal projects.
+- Each member is required though to submit a write-up describing:
   - What was accomplished during the cycle
   - Lessons learned
   - Mistakes made
