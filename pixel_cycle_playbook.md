@@ -1,4 +1,4 @@
-### Pixel Cycle Playbook (Markdown)
+### Pixel Cycle Playbook
 
 ## Overview
 Pixel Play operates in fixed five-week cycles. Each cycle finishes one project, and with 52 weeks in a year, the team aims to complete 10 projects annually.
